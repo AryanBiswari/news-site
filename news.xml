@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="indian-news.xslt"?>
+<news xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="news.xsd">
+    <article>
+        <title>India's Central Bank Cuts Interest Rates to Boost Economy</title>
+        <date>2023-02-24</date>
+        <author>Rajiv Sharma</author>
+        <content>The Reserve Bank of India (RBI) has cut its key interest rate by 25 basis points to
+            5.25% in an effort to stimulate economic growth. The move comes amid concerns about
+            slowing growth and rising inflation in the country. The RBI also announced several other
+            measures to support the economy, including a relaxation of banking regulations and an
+            increase in liquidity.</content>
+    </article>
+    <article>
+        <title>Indian Navy Conducts Successful Test of Nuclear-Capable Missile</title>
+        <date>2023-02-23</date>
+        <author>Prakash Kumar</author>
+        <content>The Indian Navy has successfully test-fired a nuclear-capable ballistic missile
+            from a submerged submarine in the Arabian Sea. The missile, which has a range of over
+            1,500 kilometers, hit its target with high precision. The test is part of India's
+            efforts to bolster its strategic deterrence capabilities.</content>
+    </article>
+    <article>
+        <title>Indian Government Launches New Program to Promote Electric Vehicles</title>
+        <date>2023-02-22</date>
+        <author>Shruti Gupta</author>
+        <content>The Indian government has launched a new program aimed at promoting the adoption of
+            electric vehicles in the country. The program includes financial incentives for buyers
+            of electric vehicles, as well as the establishment of new charging infrastructure across
+            the country. The government hopes that the program will help to reduce India's
+            dependence on imported oil and curb air pollution.</content>
+    </article>
+    <article>
+        <title>Indian Army Foils Infiltration Attempt by Terrorists from Pakistan</title>
+        <date>2023-02-21</date>
+        <author>Deepak Singh</author>
+        <content>The Indian army has foiled an infiltration attempt by a group of terrorists from
+            Pakistan in the border state of Jammu and Kashmir. The terrorists were attempting to
+            cross the Line of Control (LoC) when they were spotted by Indian troops, who engaged
+            them in a gunfight. Three terrorists were killed in the operation, while the rest fled
+            back across the LoC.</content>
+    </article>
+    <article>
+        <title>Indian Government Announces New Measures to Tackle Air Pollution</title>
+        <date>2023-02-20</date>
+        <author>Manoj Sharma</author>
+        <content>The Indian government has announced several new measures to tackle air pollution in
+            the country, including a ban on the sale of diesel generators and the introduction of
+            stricter emissions standards for vehicles. The measures are part of a broader effort to
+            improve air quality in India, which has some of the most polluted cities in the world.</content>
+    </article>
+    <article>
+        <title>Indian Tennis Player Sania Mirza Wins Doubles Title at Dubai Open</title>
+        <date>2023-02-19</date>
+        <author>Nisha Patel</author>
+        <content>Indian tennis player Sania Mirza has won the women's doubles title at the Dubai
+            Open, partnering with her Ukrainian teammate Elina Svitolina. The duo defeated the
+            French-Slovenian pairing of Kristina Mladenovic and Kaja Juvan in straight sets to claim
+            the title. This is Mirza's first doubles titlesince returning to the tour after taking a
+            break to have a baby.</content>
+    </article>
+    <article>
+        <title>Indian Parliament Passes Bill to Ban Cryptocurrencies</title>
+        <date>2023-02-18</date>
+        <author>Arun Kumar</author>
+        <content>The Indian parliament has passed a bill that would ban all private cryptocurrencies
+            in the country, including Bitcoin and Ethereum. The bill also provides for the creation
+            of a central bank digital currency (CBDC) by the Reserve Bank of India. The move is
+            aimed at curbing the use of cryptocurrencies for illegal activities and maintaining
+            financial stability in the country.</content>
+    </article>
+    <article>
+        <title>Indian Space Agency Successfully Launches Communication Satellite</title>
+        <date>2023-02-17</date>
+        <author>Rajesh Verma</author>
+        <content>The Indian Space Research Organisation (ISRO) has successfully launched a
+            communication satellite into orbit. The satellite, named GSAT-18A, will provide
+            telecommunications and broadcasting services to remote areas of the country. The launch
+            was carried out using ISRO's Geosynchronous Satellite Launch Vehicle (GSLV), which has a
+            success rate of over 90%.</content>
+    </article>
+    <article>
+        <title>Indian Farmers Protest Against New Agriculture Laws</title>
+        <date>2023-02-16</date>
+        <author>Priya Singh</author>
+        <content>Thousands of farmers in India are protesting against new agriculture laws that they
+            say will hurt their livelihoods. The laws, which were passed by the government last
+            year, seek to liberalize the agriculture sector by allowing farmers to sell their
+            produce to anyone, anywhere in the country. However, many farmers fear that the laws
+            will lead to the dismantling of government-run markets and leave them at the mercy of
+            big corporations.</content>
+    </article>
+    <article>
+        <title>Indian State of Uttar Pradesh Announces New Investment Promotion Policy</title>
+        <date>2023-02-15</date>
+        <author>Vikram Singh</author>
+        <content>The Indian state of Uttar Pradesh has announced a new investment promotion policy
+            aimed at attracting more businesses to the state. The policy offers a range of
+            incentives to companies that invest in the state, including tax breaks, land at
+            discounted rates, and assistance with obtaining permits and approvals. Uttar Pradesh is
+            one of the fastest-growing states in India and has a large and diverse economy.</content>
+    </article>
+</news>
