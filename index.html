@@ -1,45 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fetch Data from XML File</title>
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-	<script>
-		$(document).ready(function() {
-			$.ajax({
-				type: "GET",
-				url: "news.xml",
-				dataType: "xml",
-				success: function(xml) {
-					$(xml).find('article').each(function() {
-						var title = $(this).find('title').text();
-						var author = $(this).find('author').text();
-						var date = $(this).find('date').text();
-						var content = $(this).find('content').text();
-						
-						var card = '<div class="card" style="margin-bottom: 20px;border: 1px solid #ccc;">';
-						card += '<div class="card-body">';
-						card += '<h2 class="card-title">' + title + '</h2>';
-						card += '<p class="card-text"><strong>Author:</strong> ' + author + '</p>';
-						card += '<p class="card-text"><strong>Date:</strong> ' + date + '</p>';
-						card += '<p class="card-text"><strong>Content:</strong> ' + content + '</p>';
-						card += '</div>';
-						card += '</div>';
-						
-						$('#card-container').append(card);
-					});
-				}
-			});
-		});
-	</script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="style.css"/>
+  <title>Fetch XML Data with JavaScript</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div class="heading">
-		<h1>Indian News</h1>
-	</div>
-	<div class="container" id="card-container">
-		<!-- The fetched data will be displayed here -->
-	</div>
+    <div class="heading">
+        <h1>Indian News</h1>
+    </div>
+  <div class="container" id="news"></div>
+  
+  <script src="script.js">
+    
+  </script>
 </body>
 </html>
