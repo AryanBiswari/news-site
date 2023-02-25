@@ -4,6 +4,7 @@
     <html>
       <head>
         <title>Indian News</title>
+        <meta http-equiv="Content-Type" content="application/xml+xslt"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="style.css"/>
       </head>
