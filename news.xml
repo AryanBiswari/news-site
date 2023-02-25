@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="indian-news.xslt"?>
 <news xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="news.xsd">
+    xsi:noNamespaceSchemaLocation="news.xsd">
+    <article>
+        <title>India reports highest single-day spike of COVID-19 cases in 2022</title>
+        <date>2023-02-24</date>
+        <author>PTI (Press Trust of India)</author>
+        <content>India on Thursday reported its highest single-day spike of COVID-19 cases in 2022 with 1,06,933 fresh infections, pushing the country's cumulative tally to 42,108,142, according to the Union Health Ministry data updated at 8 am. The death toll has climbed to 4,89,477 with 725 more fatalities, the data showed. The active cases have increased to 6,91,382, comprising 1.64 per cent of the total infections, while the recovery rate was recorded at 97.64 per cent, the ministry said. The case fatality rate was recorded at 1.16 per cent. Maharashtra reported the highest number of fresh cases at 21,359, followed by Kerala (19,158) and Tamil Nadu (11,157).</content>
+    </article>
+
+    <article>
+        <title>RBI keeps key interest rate unchanged at 4%, projects GDP growth at 8.5% in FY24</title>
+        <date>2023-02-23</date>
+        <author>Business Today</author>
+        <content>The Reserve Bank of India (RBI) on Wednesday kept the repo rate, its key interest rate, unchanged at 4 per cent, amid concerns over rising inflation. The central bank also projected India's gross domestic product (GDP) growth at 8.5 per cent in the financial year 2023-24, up from its earlier estimate of 7.9 per cent.</content>
+    </article>
+
+    <article>
+        <title> India records highest-ever exports of $42 billion in February</title>
+        <date>2023-02-24</date>
+        <author>Economic Times</author>
+        <content>India's merchandise exports in February reached an all-time high of $42 billion, up 35.6 per cent from the same month last year, according to data from the Ministry of Commerce and Industry. The increase in exports was driven by growth in sectors such as engineering goods, gems and jewellery, and pharmaceuticals.</content>
+    </article>
+
+    <article>
+        <title>India successfully test-fires new missile capable of hitting targets up to 1,000 km away</title>
+        <date>2023-02-23</date>
+        <author>NDTV</author>
+        <content>India on Monday successfully test-fired a new missile, the Agni-P, which is capable of hitting targets up to 1,000 km away. The missile, developed by the Defence Research and Development Organisation, is a derivative of the Agni series of missiles and is designed to be used by the Army.</content>
+    </article>
+
+    <article>
+        <title>Delhi government announces free electricity up to 200 units for domestic consumers</title>
+        <date>2023-02-21</date>
+        <author>India Today</author>
+        <content>The Delhi government on Sunday announced free electricity up to 200 units for domestic consumers, in a move aimed at providing relief to households struggling with high electricity bills. The scheme is expected to benefit over 33 lakh domestic consumers in the national capital.</content>
+    </article>
+
+
     <article>
         <title>India's Central Bank Cuts Interest Rates to Boost Economy</title>
         <date>2023-02-24</date>
